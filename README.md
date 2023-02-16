@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is DjaluGalang and I'm from Backroom</p>
+<p align="left">My name is DjaluGalang and I'm from Bogor</p>
 
 ###
 
