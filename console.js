@@ -1,1 +1,1 @@
-console.log('Konsol')
+console.log('Kons')
