@@ -1,8 +1,8 @@
-<h1 align="left">Hi 🐺</h1>
+<h1 align="center">Djalu Galang</h1>
 
 ###
 
-<p align="left">My name is DjaluGalang and I'm from Bogor</p>
+<p align="center">Calm And Chaotic</p>
 
 ###
 
