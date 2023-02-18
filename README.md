@@ -1,8 +1,8 @@
-<h1 align="center">Djalu Galang</h1>
+<h1 align="center">DjaluGalang / DG</h1>
 
 ###
 
-<p align="center">Calm And Chaotic</p>
+<p align="center">Calm Outside Chaos Inside</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a WebDev and DataScientist<br>❤️ Reze Husband<br>🎯 I’m currently learning Farm Stack<br>🎲 Fun fact: Nothing mf</p>
+<p align="left">✨ I am a WebDev and DataScientist<br>🎯 I’m currently learning FastAPI and React<br>🎲 Fun fact: Nothing mf</p>
 
 ###
 
