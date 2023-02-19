@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a WebDev and DataScientist<br>🎯 I’m currently learning FastAPI and React<br>🎲 Fun fact: Nothing mf</p>
+<p align="left">✨ I am a WebDev and DataScientist<br>🎯 I’m currently learning FastAPI and React<br>🎲 Fun fact: Nothing</p>
 
 ###
 
