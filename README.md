@@ -1,4 +1,4 @@
-<h1 align="center">DjaluGalang  / DG</h1>
+<h1 align="center">DjaluGalang   / DG</h1>
 
 ###
 
