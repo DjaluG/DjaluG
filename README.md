@@ -14,10 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/hpUYC5KGlioAAAAM/bachira-isagi.gif"  />
-</div>
-
 ###
 
 <h2 align="left">Stack📚</h2>
