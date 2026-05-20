@@ -1,86 +1,93 @@
-# 👾 Djalu Galang // Systems Engineer Profile
+<div align="center">
 
-> “Automation is not about replacing humans, but scaling intelligence.”
+# 👾 DJALU GALANG // SYSTEM ENGINEER
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=MECHA%20SYSTEM%20ONLINE&fontSize=30&fontColor=00ffcc" />
 
-## 🧠 About Me
-
-I am a **Web Developer, RPA Developer, Data Engineer, and AI Automation Enthusiast** focused on building systems that are efficient, scalable, and intelligent.
-
-I design and develop automation pipelines, backend systems, and AI-driven workflows that reduce manual work and increase precision.
+</div>
 
 ---
 
-## ⚙️ Core Expertise
+## 🧠 ABOUT ME
 
-### 🌐 Web Development
-- Next.js / React / TypeScript
-- Tailwind CSS / UI Engineering
-- API Design & Integration
-- Authentication & Role-Based Systems
+> “I build systems that think, move, and automate.”
 
-### 🤖 RPA & Automation
-- UiPath
-- n8n Workflow Automation
-- Browser & Task Automation
-- Business Process Optimization
+I am a **Web Developer, RPA Developer, Data Engineer, and AI Automation Engineer** who focuses on building intelligent systems, workflows, and scalable architecture.
 
-### 📊 Data Engineering
-- Data Cleaning & Transformation
-- Excel / CSV Automation Pipelines
-- ETL Workflow Design
-- Database Integration (SQL / PostgreSQL)
-
-### 🧠 AI & Automation Systems
-- LLM Integration (OpenAI / OpenRouter)
-- AI Agents & Workflow Orchestration
-- Prompt Engineering
-- Document & PDF Chat Systems (LangChain)
+- ⚙️ Automation & RPA (UiPath, n8n)
+- 🌐 Web Engineering (Next.js, React)
+- 📊 Data Engineering (ETL, pipelines, SQL)
+- 🤖 AI Systems (LLM, LangChain, agents)
 
 ---
 
-## 🧩 Current Focus
+## ⚔️ SYSTEM STATUS
 
-- AI-powered automation systems
-- Scalable backend architecture
-- Smart workflow orchestration (n8n / RPA hybrid)
-- Portfolio systems with 3D + interactive UI
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-## 🏗️ Tech Stack
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-`Next.js` • `React` • `TypeScript` • `Node.js`  
-`Python` • `UiPath` • `n8n` • `LangChain`  
-`PostgreSQL` • `Prisma` • `Xata`  
-`Tailwind CSS` • `Docker (learning)`  
-
-
-## 🎯 Projects Interests
-
-- AI chatbot & document systems
-- Business automation pipelines
-- Internal tools for companies
-- Data-driven dashboards
-- Portfolio systems with immersive UI (HUD / mecha style)
+</div>
 
 ---
 
-## 🧬 Personal Interest
+## 🧰 TECH STACK
 
-🦾 Gundam  
-⚙️ Mecha design & sci-fi systems  
-🧠 Complex systems architecture  
-🎮 Strategy & simulation games  
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres,prisma,docker,figma)
+
+</div>
 
 ---
 
-## 📡 Contact
+## 🤖 AUTOMATION & AI
 
-- GitHub: https://github.com/DjaluG/
-- Email: djalukun@gmail.com
-- Portfolio: coming soon...
+- UiPath (RPA workflows)
+- n8n (automation pipelines)
+- OpenAI / OpenRouter integration
+- LangChain document intelligence
+- AI agents & workflow orchestration
+
+---
+
+## 📊 DATA ENGINEERING
+
+- ETL pipeline design
+- Excel / CSV automation
+- SQL database design
+- API data processing
+
+---
+
+## 🌐 WEB SYSTEMS
+
+- Next.js App Router
+- Authentication (Clerk / custom RBAC)
+- Backend APIs
+- Fullstack architecture
+
+---
+
+## 🧬 GUNDAM INTERFACE MODE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+
+</div>
+
+> SYSTEM ONLINE // PILOT AUTHORIZED // UNIT-07 ACTIVE
+
+---
+
+## 📡 CONNECT
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Portfolio: coming soon
+- Email: your@email.com
 
 ---
 
