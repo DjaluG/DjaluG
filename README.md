@@ -2,7 +2,7 @@
 
 # 👾 DJALU GALANG // SYSTEM ENGINEER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=MECHA%20SYSTEM%20ONLINE&fontSize=30&fontColor=00ffcc" />
+<img src="https://i.pinimg.com/originals/5c/19/fc/5c19fc123238871681b2a7bb77eca029.gif" />
 
 </div>
 
@@ -73,21 +73,16 @@ I am a **Web Developer, RPA Developer, Data Engineer, and AI Automation Engineer
 
 ## 🧬 GUNDAM INTERFACE MODE
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
-
-</div>
-
-> SYSTEM ONLINE // PILOT AUTHORIZED // UNIT-07 ACTIVE
+> SYSTEM ONLINE // PILOT AUTHORIZED //
 
 ---
 
 ## 📡 CONNECT
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/DjaluG
 - Portfolio: coming soon
-- Email: your@email.com
+- Email: djalukun@gmail.com
 
 ---
 
