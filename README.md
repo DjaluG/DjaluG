@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 DJALU GALANG // SYSTEM ENGINEER
+# 👾 Djalu Galang
 
 <img src="https://i.pinimg.com/originals/5c/19/fc/5c19fc123238871681b2a7bb77eca029.gif" />
 
