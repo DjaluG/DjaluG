@@ -12,39 +12,25 @@ SYSTEM: ZERO System Interface
 PILOT_ROLE: Fullstack Engineer / AI Automation / RPA Developer
 LOCATION: Kazdel
 
-CORE_STACK:
+STACK:
+  FE : React • Next.js • SolidJS • Tailwind
+  BE : Node.js • NestJS • Express • FastAPI
+  DB : PostgreSQL • MySQL • MongoDB • Firebase
+  AI : n8n • UiPath • LangChain • OpenAI • RAG
+  DEV: TypeScript • JavaScript • Python • PHP
 
-AI_AUTOMATION:
-  - n8n
-  - UiPath
-  - LangChain
-  - OpenAI API
+FOCUS:
   - AI Agents
   - Workflow Automation
-  - RAG Systems
-  - OCR Processing
-
-DATA_ENGINEERING:
-  - PostgreSQL
-  - MySQL
-  - MongoDB
-  - Firebase
-  - ETL Pipeline
-  - Data Mapping
-  - Spreadsheet Automation
-
-CURRENT_OBJECTIVES:
-  - LLM Engineering
-  - Autonomous Agents
+  - Data Engineering
   - Financial Systems
-  - Advanced Automation
 
-INTERESTS:
+INTEREST:
   - Gundam / Mecha
   - Gunpla
   - Gaming
   - 3D Design
-  - System Architecture
+
 
 
 *"Life is cheap, especially mine"*
