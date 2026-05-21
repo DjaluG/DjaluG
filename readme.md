@@ -47,5 +47,5 @@ INTERESTS:
   - System Architecture
 
 
-*"Life is cheap, especially mine.A"*
+*"Life is cheap, especially mine"*
 ```
