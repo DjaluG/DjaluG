@@ -13,25 +13,6 @@ PILOT_ROLE: Fullstack Engineer / AI Automation / RPA Developer
 LOCATION: Kazdel
 
 CORE_STACK:
-  FRONTEND:
-    - React
-    - Next.js
-    - SolidJS
-    - TailwindCSS
-    - Express
-
-  BACKEND:
-    - NestJS
-    - Node.js
-    - Express
-    - FastAPI
-
-  LANGUAGES:
-    - TypeScript
-    - JavaScript
-    - Python
-    - PHP
-    - HTML / CSS
 
 AI_AUTOMATION:
   - n8n
@@ -65,17 +46,6 @@ INTERESTS:
   - 3D Design
   - System Architecture
 
-SYSTEM_STATUS:
-  ZERO_SYSTEM: SYNCHRONIZED
-  MOBILITY: MAXIMUM
-  WEAPON_STATUS: TWIN_BUSTER_RIFLE_READY
-  WINGS: DEPLOYED
-```
-
-<div align="center">
-
-### ZERO SYSTEM ACTIVE
 
 *"Life is cheap, especially mine.A"*
-
-</div>
+```
