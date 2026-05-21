@@ -76,6 +76,6 @@ SYSTEM_STATUS:
 
 ### ZERO SYSTEM ACTIVE
 
-*"Life is cheap, especially mine."*
+*"Life is cheap, especially mine.A"*
 
 </div>
