@@ -12,11 +12,10 @@ SYSTEM: ZERO System Interface
 PILOT_ROLE: Fullstack Engineer / AI Automation / RPA Developer
 
 STACK:
-  FE : React • Next.js • SolidJS • Tailwind
-  BE : Node.js • NestJS • Express • FastAPI
+  Framework : React • Next.js • SolidJS • Tailwind • Node.js • NestJS • Express • FastAPI • etc
   DB : PostgreSQL • MySQL • MongoDB • Firebase
   AI : n8n • UiPath • LangChain • OpenAI • RAG
-  DEV: TypeScript • JavaScript • Python • PHP
+  Web: TypeScript • JavaScript • Python • PHP
 
 FOCUS:
   - AI Agents
