@@ -10,7 +10,6 @@ DjaluG@github
 MODEL: XXXG-00W0 Wing Gundam Zero
 SYSTEM: ZERO System Interface
 PILOT_ROLE: Fullstack Engineer / AI Automation / RPA Developer
-LOCATION: Kazdel
 
 STACK:
   FE : React • Next.js • SolidJS • Tailwind
@@ -26,12 +25,9 @@ FOCUS:
   - Financial Systems
 
 INTEREST:
-  - Gundam / Mecha
-  - Gunpla
+  - Model Kit
   - Gaming
   - 3D Design
-
-
 
 *"Life is cheap, especially mine"*
 ```
